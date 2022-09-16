@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with understanding JavaScript
 - 💬 Ask me about food!😄
 - 📫 How to reach me: victoria.o.ajala@gmail.com
-- ⚡ Fun fact: I'm a Nephophile and i love art!
+- ⚡ Fun fact: I'm a Nephophile and i love Art!
 
