@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Latest Blog Post
 
-https://vickytech.hashnode.dev/my-open-source-experience-from-outreachy-internship-applications
+- [My Open Source Experience](https://vickytech.hashnode.dev/my-open-source-experience-from-outreachy-internship-applications)
