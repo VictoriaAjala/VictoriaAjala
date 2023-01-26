@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora+Code&pause=1100&width=500&lines=I'm+a+Growing+Developer.;Connect+With+Me;"></a>
+</p>
 
-### I'm a Growing Developer
+<!-- Animation Typing: END -->
+
 <!--
 **VictoriaAjala/VictoriaAjala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
