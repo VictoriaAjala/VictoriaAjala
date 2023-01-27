@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora+Code&pause=1100&width=500&color=F1B39E&lines=I'm+a+Growing+Developer.;Connect+With+Me;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lora+Code&pause=1100&width=500&color=F1B39E&lines=I'm+a+Growing+Developer.;Connect+With+Me🙂;"></a>
 </p>
 
 <!-- Animation Typing: END -->
